@@ -7,5 +7,6 @@ class Anagram
   
   def match(word)
     array = []
+    
   end
 end
