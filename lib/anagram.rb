@@ -6,7 +6,7 @@ class Anagram
   end
   
   def match(word)
-    sorted_letters = word
+    sorted_letters = @word.
     array = []
     
   end
